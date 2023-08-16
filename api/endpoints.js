@@ -1,0 +1,6 @@
+export const FETCH_POST_ENDPOINT = '/api/Post'
+export const FETCH_APPUSER_ENDPOINT = '/api/AppUser'
+export const FETCH_CHALLENGE_ENDPOINT = '/api/Challenge'
+export const FETCH_COMMENT_ENDPOINT = '/api/Comment'
+export const FETCH_LIKE_ENDPOINT = '/api/Like'
+export const FETCH_LOGIN_ENDPOINT = 'api/Login'
