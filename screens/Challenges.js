@@ -88,4 +88,4 @@ const Challenges = ({ route, navigation }) => {
 
 export default Challenges
 
-//test test
+//main main
